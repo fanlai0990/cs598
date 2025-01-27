@@ -5,7 +5,7 @@
 | Member (NetID) | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Fan Lai](https://fanlai.me/) (fanlai) | Instructor | 3128 Siebel Center. W 2:00 PM – 3:00 PM
-| [Chengsong Zhang](https://continue-revolution.github.io/) (cz81)<br> [Jimmy Shong](https://jiminator.github.io/PersonalSite/) (jimmys2) | TAs | [Zoom](https://illinois.zoom.us/j/82278931782?pwd=OuM7Ep1OOXMeSuXXexmTAIuUOJz1bE.1).
+| [Chengsong Zhang](https://continue-revolution.github.io/) (cz81)<br> [Jimmy Shong](https://jiminator.github.io/PersonalSite/) (jimmys2) | TAs | [Zoom](https://illinois.zoom.us/j/82278931782?pwd=OuM7Ep1OOXMeSuXXexmTAIuUOJz1bE.1). W 7:00 PM - 8:00 PM
 
 **Piazza**:  *ALL* communication regarding this course must be via [Piazza](https://piazza.com/illinois/spring2025/cs598fla). This includes questions, discussions, announcements, as well as private messages.
 
